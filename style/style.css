@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&display=swap');
+
+.avatar{
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+    
+}
+body{ 
+    margin: auto;
+    width: 100%;
+    max-width: 1200px;
+    color: rgb(105, 107, 109);
+    font-family: 'Kaushan Script', cursive;
+    font-style: 20px;
+    font-weight: bold;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626727242_30-kartinkin-com-p-krasno-chernii-zadnii-fon-krasivo-33.jpg);
+    background-size: 100%;
+
+}
+.hobby{
+    display: inline;
+}
+.contanct{
+    display: block;
+    margin: -20% 60%;
+}
